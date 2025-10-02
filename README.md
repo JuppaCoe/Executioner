@@ -1,7 +1,7 @@
 ### Important
 ---
 - This mod requires [AceCoreLib](https://github.com/HDest-Community/AceCoreLib).
-- Supports ACL's spawn scaling.
+- Port WIP
 
 ### Notes
 ---
